@@ -1,0 +1,2 @@
+let nomeHeroi
+let quantidadeExperienciaXp
